@@ -47,7 +47,7 @@ See also:
 
 <h2 align="center">Bronze sponsors 🥉</h2>
 
-<p>&nbsp;</p>
+<p>&nbsp;test</p>
 
 <p align="center">
   <a href="https://github.com/pankod/refine" target="_blank">
